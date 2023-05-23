@@ -2,7 +2,9 @@
 
 ### Yuku Kotani, a Software Engineer based in Japan
 
+</div>
+
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=yukukotani&count_private=true" alt="Yuku's GitHub Stats" height="193" width="494" loading="lazy" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yukukotani&layout=compact" alt="Yuku's Top Langs" height="163" width="349" loading="lazy" />
-</div>
+- Software Engineer @ [Ubie, Inc.](https://company.ubiehealth.com/)
+- Undergraduate Student @ Univ. of Tsukuba
