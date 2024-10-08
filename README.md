@@ -1,4 +1,5 @@
 ### Yuku Kotani, a Software Engineer based in Japan
 
-- Software Engineer @ [Ubie, Inc.](https://company.ubiehealth.com/)
+- VP of Technology @ [Ubie, Inc.](https://company.ubiehealth.com/)
 - Undergraduate Student @ Univ. of Tsukuba
+- Maintainer of @kuma-ui
